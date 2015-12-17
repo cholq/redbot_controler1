@@ -51,6 +51,6 @@ void loop() {
 
   XBee.write(byMessage);
 
-  delay(500);
+  //delay(500);
 
 }
